@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "mal_id": 1,
+            "url" : "lol",
+            "title": "recbtiojiy",
+            "title_japanese": "recbtiojiy",
+            "title_romanji": "recbtiojiy",
+            "duration": 0,
+            "aired": "string",
+            "filler": true,
+            "recap": true,
+            "synopsis": "string"
+        }
+    ],
+    "pagination": 
+        {
+            "last_visible_page": 0,
+            "has_next_page": true
+        }
+
+}
